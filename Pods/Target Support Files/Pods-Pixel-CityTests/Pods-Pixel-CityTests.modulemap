@@ -1,0 +1,6 @@
+framework module Pods_Pixel_CityTests {
+  umbrella header "Pods-Pixel-CityTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
